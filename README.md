@@ -2,9 +2,9 @@
 
 [live site](https://laylag1.github.io/hello/)
 
-#heading
-##subheading
+# heading
+## subheading
 
 List:
 - Cats
-- dogs 
+- dogs
